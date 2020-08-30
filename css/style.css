@@ -104,3 +104,9 @@
 #faq .card-header {
   background: #333;
 }
+
+/* Footer */
+#main-footer {
+  background: black;
+  color: white;
+}
