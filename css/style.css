@@ -87,3 +87,20 @@
 .about-image {
   margin-top: -30px;
 }
+
+/* Services Page */
+
+/* Accordion */
+#faq .card {
+  border: #444;
+}
+
+#faq a {
+  color: white;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
